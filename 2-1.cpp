@@ -8,6 +8,7 @@ void main()
 {
 	Foo* pFoo;
 	Bar* pBar;
+	int a;
 
 	pFoo = new Foo;
 	pBar = new Bar;
